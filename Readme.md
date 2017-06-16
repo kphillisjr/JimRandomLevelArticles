@@ -7,3 +7,7 @@ This folder contains a copy of the source code for [Cellular Automata Method for
 ## Digger
 
 This folder contains a copy of the source code to Jim Babcock's [Digging Feature](http://www.jimrandomh.org/rldev/digging_features/index.html) Tutorial.
+
+## License
+
+The Source Code here is Licensed under the [MIT License](https://opensource.org/licenses/MIT).
